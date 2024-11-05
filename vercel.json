@@ -1,8 +1,5 @@
 {
     "version": 2,
-    "env": {
-        "COMPANY_NAME": "@company_name"
-    },
     "builds": [
         {
             "src": "src/main.ts",
