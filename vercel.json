@@ -1,5 +1,10 @@
 {
     "version": 2,
+  "env": {
+       "EMAIL_USER": "@email-user",
+       "EMAIL_PASSWORD": "@email-password",
+       "SENDER_NAME": "@sender-name"
+     },
     "builds": [
         {
             "src": "src/main.ts",
