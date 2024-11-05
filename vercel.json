@@ -1,9 +1,9 @@
 {
     "version": 2,
   "env": {
-       "EMAIL_USER": "@email-user",
-       "EMAIL_PASSWORD": "@email-password",
-       "SENDER_NAME": "@sender-name"
+       "EMAIL_USER": "@email_user",
+       "EMAIL_PASSWORD": "@email_password",
+       "SENDER_NAME": "@sender_name"
      },
     "builds": [
         {
